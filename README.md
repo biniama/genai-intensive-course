@@ -1,6 +1,8 @@
 # Gen AI Intensive Course
 5-Day AI Agents Intensive Course with Google
 
+## 5-Day GenAI Intensive Course: Whitepaper Companion Podcasts
+https://www.youtube.com/playlist?list=PL3vxlOenEOHn9tsIdnu6DCjTRS0jQH5SQ
 
 ## Welcome to our 5-Day AI Agents Intensive Course with Google!
 ### What is the 5-Day AI Agents Intensive?
