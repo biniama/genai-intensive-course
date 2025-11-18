@@ -1,8 +1,14 @@
 # Gen AI Intensive Course
 5-Day AI Agents Intensive Course with Google
 
+## Main Link to the Course
+https://www.kaggle.com/learn-guide/5-day-agents
+
 ## 5-Day GenAI Intensive Course: Whitepaper Companion Podcasts
 https://www.youtube.com/playlist?list=PL3vxlOenEOHn9tsIdnu6DCjTRS0jQH5SQ
+
+## Agents Intensive - Capstone Project
+https://www.kaggle.com/competitions/agents-intensive-capstone-project
 
 ## Welcome to our 5-Day AI Agents Intensive Course with Google!
 ### What is the 5-Day AI Agents Intensive?
